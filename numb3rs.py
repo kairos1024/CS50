@@ -1,4 +1,4 @@
-#Implements a program that checks for valid IPV4 adress using regex
+#This is a program that checks for valid IPV4 adress using regex
 import re
 import sys
 
