@@ -1,3 +1,5 @@
+#Implement a program that prompts the user for their DOB and prints out how old they are in minutes
+#Assumes that user was born at midnight for simplicty sake
 from datetime import date
 import inflect
 import sys
