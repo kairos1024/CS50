@@ -1,3 +1,6 @@
+#The cookie jar has a max capacity of 12
+#Create a program that re-enacts what depositing and withdrawing cookies from the jar would be like
+
 class Jar:
     def __init__(self, capacity=12):
 
