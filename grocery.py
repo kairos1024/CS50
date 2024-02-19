@@ -1,3 +1,5 @@
+#Takes user input and sorts it into a grocery list
+#Indexs are added for identical inputs 
 
 list = {}
 try:
