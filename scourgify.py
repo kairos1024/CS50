@@ -1,3 +1,9 @@
+#Expects two command-line arguments:
+#The name of an existing CSV file who's columns are assumed to be,in order, name and house
+#The name of a new CSV to write as output,who's columns are assumed to be,in order, first, last, and house
+#Converts that input to that output, splitting each name into a first name and last name. Assume
+#that each student will have a first and last name
+
 import csv
 import sys
 
