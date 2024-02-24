@@ -16,6 +16,8 @@ def main():
         print(convert(difference.days))
     except ValueError:
         sys.exit("Invalid date")
+#DOB must be input as year-month-day.
+
 
 
 def convert(time):
