@@ -12,7 +12,7 @@ try:
 except EOFError:
     for i in sorted(list.keys()):
         print(list[i], i)
-
+#Use control/d to cancel out of program
 
 
 
